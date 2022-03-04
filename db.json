@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "dexter",
+      "email": "dextersandeep@gmail.com",
+      "mobile": "+446378961912",
+      "address": "592/201GA kharika mohaaribagh Pandey Niwas",
+      "services": "coffee"
+    }
+  ],
+  "signup": [
+    {
+      "name": "sandeep",
+      "email": "sandeep@gmail.com",
+      "mobile": 4512637898,
+      "password": "qwe123",
+      "id": 1
+    },
+    {
+      "name": "Ravi kant",
+      "email": "ravi@gmail.com",
+      "mobile": 7845120389,
+      "password": "ravi123",
+      "id": 2
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
